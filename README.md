@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Gayantha</h1>
 <h3 align="center">A full-stack developer passionate about creating innovative web and mobile solutions and enhancing user experiences.</h3>
-<img align="left" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
+<img align="center" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackishmax321&label=Profile%20views&color=0e75b6&style=flat" alt="hackishmax321" /> </p>
 
